@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("const MET_OFFICE_KEY = \"dcd639f3-7b7e-4456-a219-3761dcdd460c\";\n\nmodule.exports = MET_OFFICE_KEY;\n\n//# sourceURL=webpack:///./src/api_keys/met_office_key.js?");
+eval("const met_office_key = 'dcd639f3-7b7e-4456-a219-3761dcdd460c';\n\nmodule.exports = met_office_key;\n\n//# sourceURL=webpack:///./src/api_keys/met_office_key.js?");
 
 /***/ }),
 
